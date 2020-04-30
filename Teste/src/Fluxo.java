@@ -31,6 +31,8 @@ public class Fluxo {
 	        }
 
 	        System.out.println("Fim do metodo2");
+	        
+	        System.out.println("FIM DO TESTE DO TESTE");
 	    }
 	}
 
